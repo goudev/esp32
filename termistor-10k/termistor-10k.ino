@@ -3,7 +3,7 @@ const float seriesResistor = 10000;  // resistor de série em ohms
 const float thermistorNominal = 10000;  // resistência do termistor a 25 graus C
 const float temperatureNominal = 25; // temperatura nominal
 const float bCoef = 3950;  // coeficiente B para o termistor
-const float calibrationFactor = 3.6;  // fator de correção de calibração
+const float calibrationFactor = 3.64;  // fator de correção de calibração
 
 void setup() {
   Serial.begin(115200);
