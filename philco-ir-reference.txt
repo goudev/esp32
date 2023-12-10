@@ -1,0 +1,44 @@
+## Power ON - Humidificar
+20:06:49.817 -> Código IR Recebido: 0x3100006C56
+20:06:49.817 -> Bits: 120
+20:06:49.817 -> Protocolo: MIRAGE
+
+## Power OFF - Humidificar
+20:07:48.707 -> Código IR Recebido: 0xC03100006C56
+20:07:48.707 -> Bits: 120
+20:07:48.707 -> Protocolo: MIRAGE
+
+## Power On AC
+20:08:10.303 -> Código IR Recebido: 0xEFF34D39
+20:08:10.303 -> Bits: 107
+20:08:10.303 -> Protocolo desconhecido
+
+## Power Off AC
+20:08:43.954 -> Código IR Recebido: 0xC02100007256
+20:08:44.011 -> Bits: 120
+20:08:44.011 -> Protocolo: MIRAGE
+
+## AC 21
+20:09:33.557 -> Código IR Recebido: 0x2100007156
+20:09:33.609 -> Bits: 120
+20:09:33.609 -> Protocolo: MIRAGE
+
+## AC 20
+20:09:38.138 -> Código IR Recebido: 0x2100007056
+20:09:38.138 -> Bits: 120
+20:09:38.138 -> Protocolo: MIRAGE
+
+## AC 19
+20:10:24.350 -> Código IR Recebido: 0x2100006F56
+20:10:24.350 -> Bits: 120
+20:10:24.350 -> Protocolo: MIRAGE
+
+## AC 18
+20:10:47.501 -> Código IR Recebido: 0x48B672D6
+20:10:47.501 -> Bits: 122
+20:10:47.501 -> Protocolo desconhecido
+
+## AC 17
+20:10:59.528 -> Código IR Recebido: 0xFDA5F7F0
+20:10:59.528 -> Bits: 122
+20:10:59.528 -> Protocolo desconhecido
